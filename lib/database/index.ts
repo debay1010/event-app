@@ -1,5 +1,3 @@
-import { getEventById } from "@/1atheReadMe/event_platform/lib/actions/event.actions";
-import { CircleDashed } from "lucide-react";
 import mongoose from "mongoose";
 
 const MONGO_DB_URI = process.env.MONGODB_URI;
